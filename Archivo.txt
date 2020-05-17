@@ -1,3 +1,5 @@
 Este es un archivo para la creación de un repositorio
 
 Los pasos nuevamente serán dcumentados para la correcta consulta de información.
+
+UPDATE: Y asícomo también se pueden documentar los cambios realizados
