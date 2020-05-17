@@ -4,6 +4,6 @@ Los pasos nuevamente serán dcumentados para la correcta consulta de informació
 
 UPDATE: Y asícomo también se pueden documentar los cambios realizados
 
-BRANCH: Esta es una modifiación realizado en un Branch
+BRANCH2: Modificación en un segundo Branch, aunque por alguna razón no me deja realizar desde extremos de los archivos, per si desde intemedios.
 
-BRANCH2: Modificación en un segundo Branch.
+BRANCH: Esta es una modifiación realizado en un Branch
