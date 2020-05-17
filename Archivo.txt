@@ -5,3 +5,5 @@ Los pasos nuevamente serán dcumentados para la correcta consulta de informació
 UPDATE: Y asícomo también se pueden documentar los cambios realizados
 
 BRANCH: Esta es una modifiación realizado en un Branch
+
+Realizamos una modificación al master y tratemos de fusionar un branch
