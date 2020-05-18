@@ -8,4 +8,6 @@ BRANCH2: Modificación en un segundo Branch, aunque por alguna razón no me deja
 
 BRANCH: Esta es una modifiación realizado en un Branch
 
+FORK: Edición desde el repositorio copiado/forked
+
 Realizamos una modificación al master y tratemos de fusionar un branch
