@@ -11,3 +11,5 @@ BRANCH: Esta es una modifiación realizado en un Branch
 FORK: Edición desde el repositorio copiado/forked
 
 Realizamos una modificación al master y tratemos de fusionar un branch
+
+Issue: Caracteristica de GitHub en la que podemos asignar un formato para atender una falla o una petición.
